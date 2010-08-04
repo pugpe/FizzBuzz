@@ -1,0 +1,8 @@
+h1. Problema FizzBuzz - PUG-PE
+
+h2. O código nesse repositório é resultado do Dojo realizado em 22 de Maio de 2010 pelos membros do PUG-PE, Python User Group de Pernambuco. Uma descrição mais detalhada você encontra "nesse blog post":http://pugpe.wordpress.com/2010/05/22/resumo-do-iv-encontro-do-pug-pe/.
+
+h2. Você pode se inscrever e acompanhar "Nosso Google Group":http://groups.google.com/group/pug-pe .
+
+h2. Autoria
+h3. Esse código é Open Source e de autoria dos membros do PUG-PE. LEIA LICENCE para detalhes.
